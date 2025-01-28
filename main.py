@@ -1,1 +1,1 @@
-print("Ahoj Patrik")
+print("Toto je moja tretia branch, ideme zistit ako sa robi pull request")
